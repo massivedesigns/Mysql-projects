@@ -1,6 +1,6 @@
-# SQL Project Repository: Database Management and Analysis 
-
 <img width="1256" alt="banner1" src="https://github.com/massivedesigns/images-in-readme/assets/42479736/ca981244-6b59-4f81-bf5c-88ad93323883">
+
+# SQL Project Repository: Database Management and Analysis 
 
 This repository contains two distinct projects: "EmployeeManagementDB" and "EPLMatchesAnalysis." Each project focuses on different aspects of database management and analysis in SQL.
 
